@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    nio4r (2.5.4)
+    puma (4.3.6)
+      nio4r (~> 2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  puma (~> 4.2)
+
+BUNDLED WITH
+   2.0.2
